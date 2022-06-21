@@ -1,0 +1,30 @@
+.container{
+    background:#eee;
+    width:600px;
+    left: auto;
+    right: auto;
+
+}
+.container .row{
+    border:1px solid #ddd;
+
+}
+.container .row .col-sm-4{
+    text-align: center;
+
+}
+.center-text{
+    text-align: center;
+    font-weight: bold;
+}
+.right-text{
+    text-align: right;
+    right: 238px;
+    position: relative;
+    top:4px;
+    font-weight: bold;
+    margin-right: 50px;
+}
+.total-height{
+    height: 35px;
+}
